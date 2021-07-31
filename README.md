@@ -6,6 +6,6 @@ Naıve Bayes is used from scratch using the Laplace smoothing. This classifier w
 
 You will also explore:
 
-(1) The effects of stop-word filtering. This means removing common words from your train and test sets. We have provided a stopword list in the file: stopwords-ur.txt
+(1) The effects of stop-word filtering. This means removing common words from train and test sets. (stop words file provided: stopwords-ur.txt)
 
 (2) The effects of Boolean Naive Bayes. This means removing duplicate words in each document (review) before training.
