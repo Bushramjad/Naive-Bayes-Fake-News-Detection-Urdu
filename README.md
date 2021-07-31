@@ -9,3 +9,12 @@ You will also explore:
 (1) The effects of stop-word filtering. This means removing common words from train and test sets.
 
 (2) The effects of Boolean Naive Bayes. This means removing duplicate words in each document (review) before training.
+
+
+We can clearly see from the results that Boolean Naive Bayes improves our performance as compared to simple Naive Bayes Classifier
+
+Accuracy is as follows:
+
+Naive Bayes = 75%
+Binary Naive Bayes with stopwords = 76%
+Binary Naive Bayes without stopwords = 77%
