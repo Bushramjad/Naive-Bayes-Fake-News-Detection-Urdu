@@ -11,9 +11,8 @@ You will also explore:
 (2) The effects of Boolean Naive Bayes. This means removing duplicate words in each document (review) before training.
 
 
-We can clearly see from the results that Boolean Naive Bayes improves our performance as compared to simple Naive Bayes Classifier
 
-Accuracy is as follows:
+We can clearly see from the results that Boolean Naive Bayes improves our performance as compared to simple Naive Bayes Classifier. Accuracy is as follows:
 
 Naive Bayes = 75%
 
