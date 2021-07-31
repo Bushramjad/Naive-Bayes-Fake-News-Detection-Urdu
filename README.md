@@ -1,4 +1,4 @@
-# Fake News Detection
+# Fake/Real News Detection
 The dissemination of Fake news always beat out the truth with significant growth. Fake news and false rumors are spreading further and faster, reaching more people, and penetrating deeper into social networks. The objective of program is to address the problem of detecting deceiving information in Urdu language from digital
 media text using Natural Language Processing techniques. The goal is to perform Fake News Detection: classifying news articles as fake or real. The is to look at a news story and classify it as fake or real.
 
