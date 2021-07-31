@@ -16,5 +16,7 @@ We can clearly see from the results that Boolean Naive Bayes improves our perfor
 Accuracy is as follows:
 
 Naive Bayes = 75%
+
 Binary Naive Bayes with stopwords = 76%
+
 Binary Naive Bayes without stopwords = 77%
